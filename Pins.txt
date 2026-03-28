@@ -1,0 +1,35 @@
+
+const int SIOD = 21; //SDA
+const int SIOC = 22; //SCL
+
+const int VSYNC = 34;
+const int HREF = 35;
+
+const int XCLK = 32;
+const int PCLK = 33;
+
+const int D0 = 27;
+const int D1 = 17;
+const int D2 = 16;
+const int D3 = 15;
+const int D4 = 14;
+const int D5 = 13;
+const int D6 = 12;
+const int D7 = 4;
+
+1   GND
+2   22	SCL
+3   21	SDA
+4   17	D1 
+5   16	D2 
+6   4	D7
+7   15	D3 
+8   13	D5 
+9   12	D6 
+10 14	D4 
+11 27	D0 
+12 33	PCLK 
+13 32	MCLK 
+14 35	HREF 
+15 34	VSYNC 
+16 3V
