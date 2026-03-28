@@ -10,3 +10,4 @@ designed and printed case and features a power
 button. OTA updates are also supported here.
 ![camera](https://github.com/user-attachments/assets/e22a8271-3e0b-4faa-a76c-912d7cd4b898)
 <img width="272" height="340" alt="camera-show" src="https://github.com/user-attachments/assets/8f6a8abe-278d-4932-a9f1-b1281371f5db" />
+<img width="609" height="358" alt="Schematic-no-fifo" src="https://github.com/user-attachments/assets/959af6b9-645c-46c2-bc43-ee0a0372cf2e" />
