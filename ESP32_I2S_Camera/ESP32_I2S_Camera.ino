@@ -11,8 +11,8 @@
 #include <WiFiUdp.h>
 #include <ArduinoOTA.h>
 
-const char* ssid = "Net101(2G)";
-const char* password = "ant3tnt2nt1";
+const char* ssid = "***";
+const char* password = "***";
 String hname = "Monitoring-device";
 const char* hostname = hname.c_str();
 
